@@ -1,4 +1,4 @@
-# Mobile-Sales-Data-Dashboard
+# Mobile-Sales-Analytics-Dashboard
 📊 Mobile Sales Analytics Dashboard – Power BI Project
 
 <img width="1295" height="738" alt="Screenshot 2026-05-08 042405" src="https://github.com/user-attachments/assets/774ae7b8-6cde-4b62-baab-216e8fee075d" />
