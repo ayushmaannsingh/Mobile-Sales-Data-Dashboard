@@ -1,6 +1,9 @@
 # Mobile-Sales-Data-Dashboard
 📊 Mobile Sales Analytics Dashboard – Power BI Project
 
+<img width="1295" height="738" alt="Screenshot 2026-05-08 042405" src="https://github.com/user-attachments/assets/774ae7b8-6cde-4b62-baab-216e8fee075d" />
+
+
 🚀 Project Overview
 
 This project is an interactive Mobile Sales Analytics Dashboard developed using Power BI to analyze sales performance, customer behavior, and business trends in the mobile sales industry.
